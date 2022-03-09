@@ -1,0 +1,14 @@
+.icon {
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+.features > .icon {
+    list-style-type: none;
+    font-size: 4rem;
+}
+
+.project-heading {
+    font-size: 1.5rem;
+    color:rgba(0, 0, 0, 0.65);
+}
