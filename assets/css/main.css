@@ -3017,7 +3017,6 @@ input, select, textarea {
 			.spotlights > section > .image img {
 				border-radius: 0;
 				display: block;
-				
 			}
 
 			.spotlights > section > .image:before {
@@ -3071,6 +3070,10 @@ input, select, textarea {
 
 		.spotlights > section:nth-child(3) {
 			background-color: rgba(0, 0, 0, 0.04);
+		}
+
+		.spotlights > section:nth-child(4) {
+			background-color: rgba(0, 0, 0, 0.06);
 		}
 
 		.spotlights > section.inactive > .image:before,
@@ -3246,7 +3249,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #6e6e6e;
+			background-color: #0e2f52;
 		}
 
 		.wrapper.style2 {
@@ -3258,7 +3261,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #fffcfef1;
+			background-color: #fffcfef6;
 		}
 
 		.wrapper.style3-alt {
