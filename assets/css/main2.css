@@ -21,3 +21,25 @@
     font-style: italic;
     font-size: 0.7rem;
 }
+
+.profile-img {
+    width: 250px;
+    border-radius: 150px;
+    margin-bottom: 40px;
+}
+
+.resume {
+    background-color: #282929;
+}
+
+.resume i {
+    margin-right: 10px;
+}
+
+.resume:hover {
+    background-color: #282929cc;
+}
+
+#intro {
+    text-align: center;
+}
