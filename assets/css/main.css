@@ -2181,6 +2181,10 @@ input, select, textarea {
 				display: block;
 			} */
 
+			.features i {
+				font-size: 50px;
+			}
+
 				.features section {
 					border-top-width: 1px !important;
 					border-left-width: 0 !important;
