@@ -2177,9 +2177,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			.features {
+			/* .features {
 				display: block;
-			}
+			} */
 
 				.features section {
 					border-top-width: 1px !important;
@@ -2738,7 +2738,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-			ul.actions:not(.fixed) {
+			/* ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
 				-webkit-flex-direction: column;
 				-ms-flex-direction: column;
@@ -2783,7 +2783,7 @@ input, select, textarea {
 						ul.actions:not(.fixed) li button.icon:before,
 						ul.actions:not(.fixed) li .button.icon:before {
 							margin-left: -0.5rem;
-						}
+						} */
 
 		}
 
